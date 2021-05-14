@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond}
+.watch{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: unset;
+}
+
+.pictures {
+    display: flex;
+    justify-content: space-around;
+}
